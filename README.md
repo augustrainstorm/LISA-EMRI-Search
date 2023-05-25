@@ -1,3 +1,5 @@
 # LISA-EMRI-Search
 
-The following package is installed as part of the Colab code; the same may need to be done wherever this code is running: https://solarianprogrammer.com/2020/01/26/getting-started-gsl-gnu-scientific-library-windows-macos-linux/
+All code here is in-development to produce an updated LISA EMRI search using current LISA Data Challenge data. 
+
+Copyright 2023 August Muller
